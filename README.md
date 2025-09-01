@@ -25,4 +25,4 @@ end
 ## Credits ⭐
 Created and maintained by **LI Resources**.  
 Need help? We provide active support — just reach out in our discord (find it in our github readme)!
-Thanks for using and supporting our work! ❤️
+Thanks for using and supporting our work! ❤️  

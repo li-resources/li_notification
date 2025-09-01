@@ -15,7 +15,7 @@ Built to be simple, stylish, and easy to use right out of the box.
 
 ## Default Notification
 **ESX Legacy**
-Find the `ESX.ShowNotification` function and change it to this:
+> Find the `ESX.ShowNotification` function and change it to this:
 ```
 function ESX.ShowNotification(message, notifyType, length)
     return exports.li_notification:addNotification(notifyType, length, nil, message)
